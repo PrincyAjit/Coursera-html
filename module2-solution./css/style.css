@@ -138,7 +138,7 @@ section p{
  position:absolute;
  top:0px;
  right:0px;
- padding:5px;
+ padding:10px;
  margin:5px;
  border:1px solid black;
   font-size:37px;
@@ -152,13 +152,16 @@ section{
 }  
 
 #chicken{
- background-color:black; 
+ background-color:pink; 
+ margin:5px;
 }  
 #beef{
  background-color:red; 
+ margin:5px;
 }
 #sushi{
  background-color:green; 
+ margin:5px;
 }
 #heading{
  font-size: 40px;
