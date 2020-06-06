@@ -140,7 +140,7 @@ body{
   box-sizing: border-box;
 }
 section p{
- position:absolute;
+ float:right;
  top:0px;
  right:0px;
  padding:10px;
