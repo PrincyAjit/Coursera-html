@@ -137,7 +137,7 @@ body{
   box-sizing: border-box;
 }
 section p{
- position:absolute;
+ position:relative;
  top:0px;
  right:0px;
  padding:10px;
