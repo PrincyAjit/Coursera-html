@@ -1,8 +1,8 @@
 
 @media(min-width:992px){
-   .col-lg-4 {
+  .col-lg-4 {
     float: left;
-    width: 32%;
+    width: 30%;
     margin:9px;
   }
  
